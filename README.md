@@ -1,6 +1,8 @@
 # Email Sender Microservice
 ## Objective:
-Task is to create a Java EE application (Microservice) for a Email Sender API. The goal is to send a email from Gmail account using SMTP protocol.
+* Task is to create a Java EE application (Microservice) for a Email Sender API. The goal is to send a email from Gmail account using SMTP protocol.
+* Make the controller as Endpoint in order to make it as a Micro-Webservice.
+* Added Swagger UI configuration for documentation.
 ## Operations:
 * Send email using Gmail.
 * Save the sent email inside the Database.
